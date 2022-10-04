@@ -7,6 +7,7 @@
 - [x] Snadno použitelná front-end webová stránka kompatibilní s každým prohlížečem
 - [ ] Nativní mobilní aplikace pro IOS a Android?
 - [ ] Bezchybná a plynulá komunikace mezi jednotlivými komponenty
+- [ ] Využití umělé inteligence
 
 ### Autoři projektu:
 
@@ -26,7 +27,9 @@
 
 #### Back-end
 
-- ****
+- **FastAPI** API framwork v jazyce Python
+- **Elasticsearch** Fulltextový vyhledávácí engine
+- **MongoDB** NoSQL databáze
 
 <!-- ### Časový harmonogram: -->
 
